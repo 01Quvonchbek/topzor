@@ -1,0 +1,5 @@
+{
+  "name": "SuperPlatform - Universal Classifieds",
+  "description": "A comprehensive multi-category classifieds platform featuring Cars, Real Estate, Electronics, Jobs, and more with integrated auction and chat capabilities.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
